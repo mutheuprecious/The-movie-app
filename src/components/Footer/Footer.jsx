@@ -10,10 +10,10 @@ const Footer = () => {
           <div className="col-fot1">
             <Heading />
             <div className="footer__details">
-              <p>Cinemy Movies and Tv Series</p>
-              <p>Nakuru, Kenya</p>
+              <p>The Movie Hub</p>
+              <p>Nairobi, Kenya</p>
               <p>
-                call Us: <span>(+254) 78728340</span>
+                call Us: <span>(+254) 794343411</span>
               </p>
             </div>
           </div>
@@ -22,7 +22,7 @@ const Footer = () => {
             <div className="menu-footer">
               <ul className="menu">
                 <li className="menu-item ">
-                  <Link to="#">About CinemyPlex</Link>
+                  <Link to="#">About movie hub</Link>
                 </li>
                 <li id="menu-item-72" className="menu-item">
                   <Link to="#">Contact Us</Link>
